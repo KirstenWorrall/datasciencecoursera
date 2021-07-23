@@ -3,7 +3,7 @@
     "path": "~/Coursera/datasciencecoursera/HelloWorld.md",
     "project_path": "HelloWorld.md",
     "type": "markdown",
-    "hash": "18346352",
+    "hash": "3120951343",
     "contents": "",
     "dirty": false,
     "created": 1627026199180.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,28",
+        "cursorPosition": "0,32",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1627026897,
+    "lastKnownWriteTime": 1627031671,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1627026897871,
+    "last_content_update": 1627031671135,
     "read_only": false,
     "read_only_alternatives": []
 }
